@@ -1,5 +1,5 @@
 *.pyc
 /.venv/
-/.env/
+/env/
 /.idea/
 /.vscode/
