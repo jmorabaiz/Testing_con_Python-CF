@@ -2,8 +2,8 @@
 
 """
 Comentario
-multineo
-'''Permite utilizar triple comilla simple internamente'''
+multinea
+'''Permite utilizar triple comillas simple internamente'''
 """
 
 '''
