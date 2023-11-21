@@ -20,7 +20,7 @@ class TestShoppingCart(unittest.TestCase):
 
     @classmethod
     def tearDownClass(cls) -> None:
-        # print('>>> El método setUpClass se ejecuta después de todas las pruebas.')
+        # print('>>> El método tearDownClass se ejecuta después de todas las pruebas.')
         pass
 
     def setUp(self) -> None:
