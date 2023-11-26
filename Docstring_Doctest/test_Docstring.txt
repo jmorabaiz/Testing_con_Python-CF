@@ -1,4 +1,4 @@
->>> from Docstring import palindromo, User
+>>> from Docstring_Doctest.Docstring import palindromo, User
 
 >>> palindromo('Anita lava la tina')
 True

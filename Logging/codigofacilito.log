@@ -1,0 +1,8 @@
+MainProcess - MainThread - DEBUG - 2023/11/26 - Message: Antes del llamado de la función.
+MainProcess - MainThread - DEBUG - 2023/11/26 - Message: Entramos aquí!!!!
+MainProcess - MainThread - DEBUG - 2023/11/26 - Message: Nos encontramos en esta línea.
+MainProcess - MainThread - INFO - 2023/11/26 - Message: 30
+MainProcess - MainThread - DEBUG - 2023/11/26 - Message: Antes del llamado de la función.
+MainProcess - MainThread - DEBUG - 2023/11/26 - Message: Entramos aquí!!!!
+MainProcess - MainThread - DEBUG - 2023/11/26 - Message: Nos encontramos en esta línea.
+MainProcess - MainThread - INFO - 2023/11/26 - Message: 30
