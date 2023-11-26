@@ -35,5 +35,9 @@ class TestProduct(unittest.TestCase):
         self.assertEqual(1, 1)
 
 
-if __name__ == '__main__':
-    unittest.main()
+# if __name__ == '__main__':
+#     unittest.main()
+
+# coverage run -m unittest discover -v
+# coverage report -m
+# coverage html
